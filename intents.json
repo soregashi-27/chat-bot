@@ -1,0 +1,32 @@
+{"intents": [
+    {"tag": "greetings",
+        "patterns": ["Hello", "Hey", "Hi", "Good Day", "Greetings", "What's up?", "How are you doing?"],
+        "Response": ["Hello", "Hey!", "What can I do for you?"]
+    },
+    {"tag": "goodbye",
+        "patterns": ["cyao", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
+        "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"]
+      },
+    {"tag": "age",
+        "patterns": ["How old?", "What is your age?", "How old are you?", "age?"],
+        "Response": ["I'm 27.", "27years!", "Our making programmer becomes 27ys old."]
+    },
+    {"tag": "name",
+        "patterns": ["What is your name?", "What should I call you?", "Whats your name?", "May I have your name?"],
+        "Response": ["You can call me Neural", "I'm Neural.", "I'm Neural the assistant of a junior front-end enginner living in Japan."]
+    },
+    {"tag": "shop",
+        "patterns": ["Hello", "Hey", "Hi", "Good Day", "Greetings", "What's up?", "How are you doing?"],
+        "Response": ["Hello", "Hey!", "What can I do for you?"]
+    },
+    {"tag": "hours",
+        "patterns": ["Hello", "Hey", "Hi", "Good Day", "Greetings", "What's up?", "How are you doing?"],
+        "Response": ["Hello", "Hey!", "What can I do for you?"]
+    },
+    {"tag": "stocks",
+        "patterns": ["Hello", "Hey", "Hi", "Good Day", "Greetings", "What's up?", "How are you doing?"],
+        "Response": ["Hello", "Hey!", "What can I do for you?"]
+    }
+]
+
+}
